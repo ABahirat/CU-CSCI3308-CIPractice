@@ -1,2 +1,1 @@
-make
-make test
+./configure && make && make test
