@@ -1,1 +1,2 @@
-./configure && make && make test
+#script: make
+#script: make test
