@@ -1,3 +1,5 @@
+before_script:
+	-sudo apt-get install check
 language: c
-script: make dep && make && make test
+script: make && make test
 
